@@ -1,7 +1,7 @@
 
 const questions = [
   {
-    question: 'What is meant by the principle of "presumption of innocence" in law?',
+    question: "What's meant by the principle of 'presumption of innocence' in law?",
     answers: [
       { text: 'The defendant is considered guilty until proven innocent', correct: true },
       { text: 'The defendant is considered guilty without evidence', correct: false },
